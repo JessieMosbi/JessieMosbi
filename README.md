@@ -1,4 +1,4 @@
-### Hey there, I'm Jessie Cheng. 👋
+### Hey there, I'm Jessie Cheng. A passionate full stack web developer from Kaohsiung, Taiwan. 👋
 
 <!--
 **JessieMosbi/JessieMosbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
