@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - Working on some small projects that practice specific skills.
   - Layout: [Exhibinection](https://jessiemosbi.github.io/exhibinection/)、[Glasses](https://jessiemosbi.github.io/glasses-website/)
   - Node.js: [Twitter (collaborative)](https://github.com/JessieMosbi/twitter-api-2020)、[Expense Tracker (MySQL)](https://github.com/JessieMosbi/expense-tracker-sequelize)
-  - 
+  - Vue: - [Vue Practice](https://jessiemosbi.github.io/vue-hex-practice/)
 
 <!--
 
@@ -53,4 +53,8 @@ Here are some ideas to get you started:
 #### JavaScript
 - [RGB to Hex Converter](https://github.com/JessieMosbi/RGB-to-Hex-Converter)
 - [Trash Taik Generator](https://github.com/JessieMosbi/trash_talk_generator)
+
+#### Vue
+- [Vue](https://jessiemosbi.github.io/vue-hex-practice/)
+- [Vue Cli](https://jessiemosbi.github.io/vue-hex-practice/)
 -->
