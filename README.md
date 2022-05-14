@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Currently learning API Server and PHP Laravel project.
+- Currently learning [PHP Laravel project](https://github.com/JessieMosbi/Laravel-commerce).
 - Recently working on [API Server (Codeigniter4)](https://github.com/JessieMosbi/Codeigniter4-API-practice) and [simulation on client server and front-end](https://github.com/JessieMosbi/API-client-practice)
 - Working on some small projects that practice specific skills.
   - Layout: [Exhibinection](https://jessiemosbi.github.io/exhibinection/)、[Glasses](https://jessiemosbi.github.io/glasses-website/)
